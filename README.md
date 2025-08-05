@@ -1,9 +1,5 @@
 # 💧 AquaSense – IoT Water Quality Monitoring System
 
-**AquaSense** is an open-source IoT system designed to monitor the quality of drinking water using Electrical Conductivity (EC) and Temperature sensors. Built with an ESP32 microcontroller, the system features local data visualization and remote monitoring through an IoT cloud platform. Its goal is to provide a low-cost, scalable solution for household water safety, with future potential for ML-based predictive maintenance and additional sensors like pH and turbidity.
-
----
-
 ## 📌 Overview
 
 **AquaSense** is a low-cost, DIY IoT system for real-time monitoring of **drinking water quality**, focusing on two key parameters:
