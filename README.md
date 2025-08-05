@@ -41,15 +41,15 @@ The system uses the **ESP32 DevKit v4**, a **TDS/EC sensor**, and a **DS18B20 te
 
 ## 🛠️ Implementation Plan
 
-### ✅ Milestone 1: Sensor Integration
+### Sensor Integration
 - Connect and test EC and temperature sensors
 - Calibrate ADC readings for TDS values
 
-### ✅ Milestone 2: WiFi & IoT Integration
+### WiFi & IoT Integration
 - Connect ESP32 to WiFi
 - Send periodic data to ThingSpeak
 
-### ✅ Milestone 3: Display Integration
+### Display Integration
 - Initialize SPI/I2C OLED
 - Show updated EC and Temp readings in real time
 
