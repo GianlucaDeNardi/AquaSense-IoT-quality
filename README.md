@@ -82,9 +82,9 @@ Apply corrected formula to estimate ppm from voltage
 ---
 
 ## 🌐 ThingSpeak Dashboard:
-Real-time data can be accessed via the public ThingSpeak channel (demo):
-  ```bash
-      https://thingspeak.com/channels/
+Real-time data can be accessed via the public ThingSpeak channel:
+
+[https://thingspeak.com](https://thingspeak.com)
 
 
 
